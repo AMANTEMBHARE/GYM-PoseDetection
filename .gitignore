@@ -2,5 +2,10 @@
 venv/
 __pycache__/
 *.pyc
-venv_train
-venv_pose
+venv_train/
+venv_pose/
+
+
+dataset_form/
+dataset_videos/
+gym_pose_dataset.csv
